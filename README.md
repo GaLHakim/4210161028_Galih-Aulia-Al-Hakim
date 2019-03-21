@@ -12,3 +12,6 @@ Data yang perlu dienkapsulasi adalah :
 - Koordinat bullet
 
 Karena dalam game, keadaan tersebut yang selalu berubah ubah.
+
+tanggal 21-03-2019
+mengirim data enkapsulasi dari client ke server, di bongkar lalu dikirim kembali ke client
